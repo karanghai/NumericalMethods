@@ -1,0 +1,10 @@
+initial condition number 9.0806e+15
+adjusted matrix condition number = 7.1713
+
+OSU            100
+PU             67.608
+WI             51.9565
+MI             33.6957
+IL             0
+
+

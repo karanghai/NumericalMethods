@@ -1,0 +1,13 @@
+Part1 --compress.m
+
+ File size in bytes( use the unix ls  –l command)
+Rank 120:  25977 bytes Rank 50: 25320 bytes  Rank 20: 21692 bytes
+
+
+
+Part 3  -adaptive.m
+
+area =
+
+   0.333333458920075
+
