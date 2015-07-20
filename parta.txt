@@ -1,1 +1,1 @@
-The rate of convergence for halleys method is cubic. We can see this using the function f(x) = ln(x)+x as an example.
+The rate of convergence for halleys method is cubic. We can see this using the function f(x) = ln(x)+x as an example. This is a test.
